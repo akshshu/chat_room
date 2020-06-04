@@ -1,0 +1,14 @@
+hello
+There are 7 books on the shelf
+syscmd ifconfig
+Python is a programming language
+syscmd ls
+syscmd dir
+books
+How is the weather today
+syscmd whoami
+what is your name?
+syscmd pwd
+syscmd ifconfig
+syscmd whossdami
+syscmd disdsr
